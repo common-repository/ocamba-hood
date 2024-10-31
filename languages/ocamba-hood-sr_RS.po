@@ -1,0 +1,102 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the package
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocamba-hood\n"
+"POT-Creation-Date: 2013-05-21 09:44:12+00:00\n"
+"PO-Revision-Date: 2024-08-16 08:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: templates/admin-template.php:3
+msgid "Ocamba Hood Settings"
+msgstr "Ocamba Hood Podešavanja"
+
+#: templates/admin-template.php:7
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: templates/admin-template.php:16
+msgid "Code Key"
+msgstr "Kodni Ključ"
+
+#: templates/admin-template.php:21
+msgid "ACTIVATE/DEACTIVATE"
+msgstr "UKLJUČI/ISKLJUČI"
+
+#: templates/admin-template.php:49
+msgid "Save Changes"
+msgstr "Snimi Promene"
+
+#: templates/admin-template.php:43 and templates/admin-template.php:57
+msgid ""
+"Add your Ocamba Hood Code Key from Code Key field in settings on Ocamba -> "
+"Hood."
+msgstr ""
+"Dodajte kodni ključ za Ocamba Hood iz polja Kodni Ključ (\"Key Code\") u "
+"podešavanjima na Ocamba -> Hood."
+
+#: templates/admin-template.php:97 ocamba-hood-class.php:83
+msgid "Code Key is empty! Please enter valid Code Key."
+msgstr "Kodni Ključ je prazan. Molimo vas ukucajte validan kodni ključ."
+
+#: templates/admin-template.php:98
+msgid ""
+"Code Key need to be 32 up to 44 character length! Please enter valid Code "
+"Key."
+msgstr ""
+"Kodni ključ mora da bude između 32 i 44 karaktera dužine. Molimo vas "
+"unesite validni kodni ključ."
+
+#: templates/admin-template.php:99
+msgid "Dismiss this notice."
+msgstr "Odbaci ovo obaveštenje."
+
+#: templates/admin-template.php:100
+msgid "Code Key did not changed"
+msgstr "Kodni ključ nije promenjen"
+
+#: ocamba-hood-class.php:30
+msgid ""
+"The file sw.js in the root directory of Wordpress is not writable. Please "
+"change its permissions and try again. Otherwise replace its contents "
+"manually:"
+msgstr ""
+"Nad datoteka sw.js u root direktorijumu WordPress-a nije moguće vršiti "
+"operaciju pisanja. Molimo vas dovolite pisanje na datoteci sw.js i "
+"pokušajte ponovo. U suprotnom zamenite njen sadržaj ručno:"
+
+#: ocamba-hood-class.php:30
+msgid "Also make sure that the file is accessible at"
+msgstr "Takođe proverite da li je datoteka dostupna, tj. da li postoji na"
+
+#: ocamba-hood-class.php:189
+msgid ""
+"Code Key activated successfully! Ocamba Hood Code Key snippet is added to "
+"your website."
+msgstr ""
+"Kodni ključ je uspešno aktiviran . Ocamba Hood kodni ključ je uspešno "
+"aktiviran na vašem veb sajtu."
+
+#: ocamba-hood-class.php:190
+msgid ""
+"Code Key deactivated successfully! Ocamba Hood Code Key snippet will be "
+"removed from your website."
+msgstr ""
+"Kodni ključ je uspešno deaktiviran . Ocamba Hood kodni ključ je uspešno "
+"deaktiviran na vašem veb sajtu."
+
+#: ocamba-hood-class.php:216
+msgid "Code Key not found! Please enter valid Code Key."
+msgstr "Kodni ključ nije pronađen. Molimo vas ukucajte validan kodni ključ."
+
+#: ocamba-hood-class.php:268
+msgid "Settings successfully updated."
+msgstr "Podešavanja su uspešno ažurirana."
